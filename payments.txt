@@ -3,5 +3,8 @@
 
 03/02/2023 pending transcation
 
+16/02/2023 payment was cancelled
 
 27/02/2023 transcation successfully completed 
+
+01/03/2023 payment due
